@@ -15,6 +15,9 @@ int main() {
         }
         std::cout << "O fatorial de " << n << " é " << fatorial << std::endl;
         std::cout << "Fim do programa" << std::endl;
+        std::cout << "Fim do programa" << std::endl;
+        std::cout << "Fim do programa" << std::endl;
+        std::cout << "Fim do programa" << std::endl;
     }
 
     return 0;
