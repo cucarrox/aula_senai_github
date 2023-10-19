@@ -14,6 +14,8 @@ int main() {
             fatorial *= i;
         }
         std::cout << "O fatorial de " << n << " é " << fatorial << std::endl;
+        std::cout << "O fatorial de " << n << " é " << fatorial << std::endl;
+        std::cout << "O fatorial de " << n << " é " << fatorial << std::endl;
         std::cout << "Fim do programa" << std::endl;
         std::cout << "Fim do programa" << std::endl;
         std::cout << "Fim do programa" << std::endl;
